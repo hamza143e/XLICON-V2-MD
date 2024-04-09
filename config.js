@@ -7,16 +7,16 @@ import axios from 'axios'
 
 
 global.owner = [
-  ['923229390827', 'mrdevelopershahzada', true], 
+  ['92327137231', 'mrdevelopershahzada', true], 
   
   
 ] //Number of owners
 
 //global.pairingNumber = "" //put your bot number here
 
-global.mods = ['923229390827', '923229390827', '923229390827','923229390827','923229390827'] 
-global.prems = ['923229390827','923229390827','923229390827', '923229390827','923229390827']
-global.allowed = ['923229390827', '923229390827', '923229390827', '923229390827','923229390827']
+global.mods = ['923271317231'] 
+global.prems = ['923271317231']
+global.allowed = ['923271317231']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
 global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
 global.keysxteammm = ['29d4b59a4aa687ca', '5LTV57azwaid7dXfz5fzJu', 'cb15ed422c71a2fb', '5bd33b276d41d6b4', 'HIRO', 'kurrxd09', 'ebb6251cc00f9c63']
@@ -51,13 +51,13 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = 'XLICON-V2'
+global.botname = 'MRDEVELOPERSHAHZADA'
 global.premium = 'true'
-global.packname = 'XLICON TEAM' 
-global.author = '@XLICON-V2' 
+global.packname = ' MRDEVELOPERSHAHZADA '
+global.author = '@MRDEVELOPERSHAHZADA'
 global.menuvid = 'https://telegra.ph/file/325630f66abc968eda8e2.mp4'
 global.igfg = '▢✓ Follow My channel\nhttps://whatsapp.com/channel/0029VaVPRZnK0IBbWek2rr1z\n' 
-global.dygp = ' https://whatsapp.com/channel/0029VaVPRZnK0IBbWek2rr1z  '
+global.dygp = 'https://whatsapp.com/channel/0029VaVPRZnK0IBbWek2rr1z'
 global.fgsc = 'https://github.com/salmanytofficial/XLICON-V2-MD' 
 global.fgyt = 'https://youtube.com/@mrdevelopershahzada'
 global.fgpyp = 'https://youtube.com/@mrdevelopershahzada'
